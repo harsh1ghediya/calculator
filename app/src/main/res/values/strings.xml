@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="calc">Calculator</string>
+    <string name="enter_val_1">Enter Value 1</string>
+    <string name="add">+</string>
+    <string name="mul">×</string>
+    <string name="sub">-</string>
+    <string name="div">÷</string>
+    <string name="mod">%</string>
+    <string name="ac">AC</string>
+    <string name="display">Enter value here</string>
+</resources>
